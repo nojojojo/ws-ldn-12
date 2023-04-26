@@ -1,3 +1,6 @@
+
+STM_CUBE_HOME = C:\Users\Noah\STM32Cube\Repository\STM32Cube_FW_F7_V1.17.0
+
 ifndef STM_CUBE_HOME
 $(error STM_CUBE_HOME is not set)
 endif

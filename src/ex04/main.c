@@ -1,4 +1,4 @@
-#include "stm32746g_discovery_audio.h"
+#include "common/stm32746g_discovery_audio.h"
 
 #include "ct-head/math.h"
 #include "ct-head/random.h"
